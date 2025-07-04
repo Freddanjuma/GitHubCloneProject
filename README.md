@@ -1,1 +1,4 @@
-This is the description of my repo
+## Objective: Practice branching, merging, and conflict resolution
+## Objective:
+This task demonstrates branching, making changes on separate branches, and resolving merge conflicts.
+
