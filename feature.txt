@@ -1,1 +1,1 @@
-This is content inside feature.txt
+This is a new feature added in feature-branch.
